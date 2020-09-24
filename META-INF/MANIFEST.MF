@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cobranca
+Bundle-SymbolicName: Cobranca
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.algaworks.cobranca,
+ com.algaworks.cobranca.controller,
+ com.algaworks.cobranca.model,
+ com.algaworks.cobranca.repository
